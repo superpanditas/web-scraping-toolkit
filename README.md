@@ -5,9 +5,10 @@ Welcome to my **Web Scraping Exercises** repository! This repository contains va
 The goal of this repo is to document my journey in learning web scraping, with exercises ranging from basic scraping to handling advanced challenges like dynamic content, pagination, and complex website structures.
 
 ## Table of Contents
-- [Introduction](#introduction)
+- [Introduction]
+- [Soccer Data Example]('./soccer_data_scraper)
 - [Folder Structure](#folder-structure)
-- [Setup & Installation](#setup--installation)
+- [Setup & Installation](#setup--installatio)
 - [Usage](#usage)
 - [Examples](#examples)
 - [Future Plans](#future-plans)
