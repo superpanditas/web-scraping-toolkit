@@ -6,7 +6,7 @@ The goal of this repo is to document my journey in learning web scraping, with e
 
 ## Table of Contents
 - [Introduction]
-- [Soccer Data Example]('./soccer_data_scraper)
+- [Soccer Data Example](./soccer_data_scraper)
 - [Folder Structure](#folder-structure)
 - [Setup & Installation](#setup--installatio)
 - [Usage](#usage)
