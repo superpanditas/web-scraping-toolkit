@@ -1,4 +1,4 @@
-# Web Scraping Playground
+# Web Scraping Sandbox
 
 Welcome to my **Web Scraping Exercises** repository! This repository contains various exercises and projects focused on learning and mastering web scraping using tools like **Selenium**, and **Requests**.
 
@@ -6,7 +6,7 @@ The goal of this repo is to document my journey in learning web scraping, with e
 
 ## Table of Contents
 - [Introduction]
-- [Soccer Data Example](./soccer_data_scraper)
+- [Countries of the World: A Simple Example](./webscraping_sandbox/Countries_Of_The_World_Scraper.ipynb)
 - [Folder Structure](#folder-structure)
 - [Setup & Installation](#setup--installatio)
 - [Usage](#usage)
