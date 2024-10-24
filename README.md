@@ -5,12 +5,13 @@ Welcome to my **Web Scraping Exercises** repository! This repository contains va
 The goal of this repo is to document my journey in learning web scraping, with exercises ranging from basic scraping to handling advanced challenges like dynamic content, pagination, and complex website structures.
 
 ## Table of Contents
-- [Introduction]
 - [Countries of the World: A Simple Example](./webscraping_sandbox/Countries_Of_The_World_Scraper.ipynb)
-- [Folder Structure](#folder-structure)
+- [Hockey Teams: Forms, Searching and Pagination](#folder-structure)
+- [Oscar Winning Films: AJAX and Javascript](#folder-structure)
+- [Turtles All the Way Down: Frames & iFrames](#folder-structure)
+- [Real World Challenges](#folder-structure)
 - [Setup & Installation](#setup--installatio)
 - [Usage](#usage)
-- [Examples](#examples)
 - [Future Plans](#future-plans)
 - [Contributing](#contributing)
 
