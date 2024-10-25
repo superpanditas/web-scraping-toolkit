@@ -7,7 +7,7 @@ The goal of this repo is to document my journey in learning web scraping, with e
 ## Table of Contents
 - [Countries of the World: A Simple Example](./webscraping_sandbox/Countries_Of_The_World_Scraper.ipynb)
 - [Hockey Teams: Forms, Searching and Pagination](./webscraping_sandbox/Hockey_Teams_Data_Scraper.ipynb)
-- [Oscar Winning Films: AJAX and Javascript](#folder-structure)
+- [Oscar Winning Films: AJAX and Javascript](./webscraping_sandbox/Oscar_Winning_Films_Data_Scraper.ipynb)
 - [Turtles All the Way Down: Frames & iFrames](#folder-structure)
 - [Real World Challenges](#folder-structure)
 - [Setup & Installation](#setup--installatio)
